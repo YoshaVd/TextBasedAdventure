@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Antlr">
+      <UniqueIdentifier>{b43245f8-6090-481d-b2aa-43368785576f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Antlr">
+      <UniqueIdentifier>{94874ed7-d2d4-4891-ae66-7dd322bdf2fb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Antlr\textworldBaseListener.cpp">
+      <Filter>Source Files\Antlr</Filter>
+    </ClCompile>
+    <ClCompile Include="Antlr\textworldBaseVisitor.cpp">
+      <Filter>Source Files\Antlr</Filter>
+    </ClCompile>
+    <ClCompile Include="Antlr\textworldLexer.cpp">
+      <Filter>Source Files\Antlr</Filter>
+    </ClCompile>
+    <ClCompile Include="Antlr\textworldListener.cpp">
+      <Filter>Source Files\Antlr</Filter>
+    </ClCompile>
+    <ClCompile Include="Antlr\textworldParser.cpp">
+      <Filter>Source Files\Antlr</Filter>
+    </ClCompile>
+    <ClCompile Include="Antlr\textworldVisitor.cpp">
+      <Filter>Source Files\Antlr</Filter>
+    </ClCompile>
+    <ClCompile Include="InputParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OutputFormatter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerStats.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Helpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Campfire.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InteractiveObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WorldNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyVisitor.h">
+      <Filter>Header Files\Antlr</Filter>
+    </ClInclude>
+    <ClInclude Include="Antlr\textworldBaseListener.h">
+      <Filter>Header Files\Antlr</Filter>
+    </ClInclude>
+    <ClInclude Include="Antlr\textworldBaseVisitor.h">
+      <Filter>Header Files\Antlr</Filter>
+    </ClInclude>
+    <ClInclude Include="Antlr\textworldLexer.h">
+      <Filter>Header Files\Antlr</Filter>
+    </ClInclude>
+    <ClInclude Include="Antlr\textworldListener.h">
+      <Filter>Header Files\Antlr</Filter>
+    </ClInclude>
+    <ClInclude Include="Antlr\textworldParser.h">
+      <Filter>Header Files\Antlr</Filter>
+    </ClInclude>
+    <ClInclude Include="Antlr\textworldVisitor.h">
+      <Filter>Header Files\Antlr</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OutputFormatter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerStats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Campfire.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InteractiveObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

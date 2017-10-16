@@ -1,0 +1,79 @@
+[HELP]
+help
+
+[HERE]
+here
+look around
+surroundings
+scout
+
+[TIME]
+time
+
+[INVENTORY]
+inventory
+backpack
+inv
+
+[GO]
+go
+enter
+walk
+run
+jog
+sneak
+skulk
+proceed
+move
+journey
+travel
+proceed
+set out
+strike out
+turn
+range
+skip
+
+[TAKE]
+take
+pick up
+grab
+get
+bag
+catch
+seize
+obtain
+acquire
+secure
+procure
+claim
+harvest
+
+[EXAMINE]
+examine
+check
+inspect
+peruse
+scrutinize
+study
+look at
+look into
+watch
+investigate
+analyze
+analyse
+observe
+gander at
+peer at
+
+[USE]
+use
+loot
+
+[HEALTH]
+health
+
+[SLEEP]
+sleep
+rest
+nap
